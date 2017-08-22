@@ -22,6 +22,7 @@ This is a list of our findings that we're reasonably happy with so far.
 * [XBL and Web Components](text/0004-xbl-web-components.md) compares some old Mozilla technology (XBL) with modern Web Components.
 * [Problems with XBL](text/0005-problems-with-xbl.md) aims to list the different kinds of problems that exist with XBL.
 * [Architecture Reviews](text/0006-architecture-review-process.md) are healthy and we proposed a process for healthy reviews (**this document is incomplete and in-progress**).
+* [Firefox Data Stores Documentation](text/0005-firefox-data-stores.md) documents the existing data stores across all current Firefox platforms.
 
 ## Posts
 
